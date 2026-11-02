@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(227, 224, 224);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    background-color: black;
+    height: 1px;
+    border: none;
+    width: 18cm;
+    margin-left: 0;
+}
+
+sup {
+    color: blue;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.mal {
+    font-size: small;
+}
+
